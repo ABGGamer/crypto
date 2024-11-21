@@ -1,7 +1,24 @@
 {
     "name": "GREEN ALIEN",
     "symbol": "GRA",
-    "description": "GREEN ALIEN MEME",
+    "uri": "https://raw.githubusercontent.com/ABGGamer/crypto/refs/heads/main/metadata.json",
     "image": "https://raw.githubusercontent.com/ABGGamer/crypto/refs/heads/main/logo.png",
-    "seller_fee_basis_points":100
+    "seller_fee_basis_points": 400,
+    "creators": [
+        {
+            "address": "HPUS3u3vacuj8pexbpGFSN3q3v86BrLpsZm9wfPaMLaY",
+            "verified": true,
+            "share": 0
+        },
+        {
+            "address": "31p2kqJ2Yy773GRz125XWZt6T4hVZeMDNPdHF7PQS2P6",
+            "verified": true,
+            "share": 50
+        },
+        {
+            "address": "H7ivcVMkZUoU2qrRwU7P3YMokN9pgAoQEWodHxkzUVAA",
+            "verified": true,
+            "share": 50
+        }
+    ]
 }
